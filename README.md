@@ -2,4 +2,4 @@
 
 Facebook Login Page Using Html & Css 
 
-Live Preview : https://mohammedjaseem.github.io/FB-login-page-using-Html-css-Only/
+Live Preview : www.mohammedjaseem.me/Projects/BroCamp/Week-01/Fb-login
